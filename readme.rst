@@ -1,3 +1,24 @@
+************
+Panduan Instalasi , WAJIB BACA
+************
+
+Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
+of the CodeIgniter User Guide.
+
+!!! HARAP BACA TERLEBIH DAHULU !!!
+
+1. Buat database dengan nama technical_test
+
+2. Export database , buka file .sql berada di folder database
+
+3. lihat gambar-gambar preview sebagai tambahan informasi mengenai gambaran dari aplikasi ini
+
+4. jika laporan tidak dapat membuka pdf maka install dompdf
+dengan command 'composer require dompdf/dompdf', jika bisa di buka maka abaikan saja.
+
+
+versi codeigniter : CI_VERSION = '3.1.13'
+
 ###################
 What is CodeIgniter
 ###################
@@ -35,12 +56,6 @@ It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
 
 *******
 License
